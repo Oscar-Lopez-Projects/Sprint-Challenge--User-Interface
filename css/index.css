@@ -144,3 +144,67 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.about-body{
+    width: 750px;
+    margin: 0 auto;
+}
+.nav a{
+    font-size: 15px;
+    color:gray;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 40px;
+    align-items: center;
+}
+.header-container{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.about-header-img{
+    margin-top: 25px;
+    width: 100%;
+}
+
+.logo{
+    width: 100%;
+    margin-top: -10px;
+}
+.about-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.first-div, .second-div, .third-div, .fourth-div, .fifth-div, .sixth-div {
+    width:48%;
+    justify-content: space-between;
+    margin: 15px 0px 15px 0px;
+
+}
+h1{
+    margin: 10px 0px 10px 0px;
+}
+button{
+    margin: 10px 0px 10px 0px;
+    font-size:15px;
+}
+.final-header{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.final-para{
+    margin-bottom: 20px;
+}
+.second-img, .third-img{
+    width: 100%;
+}
+.front-img{
+    margin: 15px 0px 15px 0px;
+}
+.home-body{
+   width: 750px;
+    margin: 0 auto;    
+}
